@@ -6,6 +6,10 @@ Corsatak is an online learning platform designed to provide students with an org
 
 ---
 
+## 📸 Project Preview
+
+![Corsatak Preview](screenshots/homepage.png)
+
 ## ✨ Features
 
 - 📚 Online courses and educational content
