@@ -24,8 +24,8 @@ Corsatak is an online learning platform designed to provide students with an org
 
 ### 👨‍🎓 Student Account
 
-Email       : mahmoud@admin.com
-Password    : 123456
+## Email       : mahmoud@admin.com
+## Password    : 123456
 
 ### 🛡️ Admin Account
 
@@ -88,6 +88,14 @@ These features may be re-enabled in future updates once the required configurati
 ---
 
 ⭐ If you like this project, consider giving the repository a star!
+
+## 🚀 About the Project
+
+**Corsatak** is a personal training project I built after learning web development concepts. It was an opportunity to apply my knowledge, practice my skills, and gain hands-on experience by building a real project.
+
+This project is just the beginning of my journey. I still have a lot to learn, more skills to develop, and bigger goals to achieve. With continuous learning, determination, and ambition, I'm committed to improving myself and building better projects along the way.
+
+**This is only the beginning — there's still much more to come!** 💪
 
 
 
