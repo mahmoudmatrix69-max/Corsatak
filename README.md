@@ -1,14 +1,13 @@
 # 🎓 Corsatak — Online Learning Platform
 
+![Corsatak Preview](screenshots/homepage.png)
+
 ### 🚀 My First Project
 
 Corsatak is an online learning platform designed to provide students with an organized , simple , and user-friendly educational experience
 
 ---
 
-## 📸 Project Preview
-
-![Corsatak Preview](screenshots/homepage.png)
 
 ## ✨ Features
 
