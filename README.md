@@ -1,20 +1,20 @@
-# 🎓 Corsatak — Online Learning Platform
+# 🎓 Corsatak — Online - My First Project
 
 ![Corsatak Preview](screenshots/homepage.png)
 
 ### 🚀 My First Project
 
-Corsatak is an online learning platform designed to provide students with an organized, simple, and user-friendly educational experience.
+Corsatak is an online learning platform designed to provide students with an organized, simple, and user-friendly educational experience
 
 ## 📖 About the Project
 
-Corsatak is a personal training project I built after learning web development concepts. It gave me the opportunity to apply what I learned, practice my skills, and gain hands-on experience by building a real project.
+Corsatak is a personal training project I built after learning web development concepts. It gave me the opportunity to apply what I learned, practice my skills, and gain hands-on experience by building a real project
 
-This project is an important step in my learning journey, but it is only the beginning. I still have more to learn, more skills to develop, and bigger goals to achieve.
+This project is an important step in my learning journey, but it is only the beginning. I still have more to learn, more skills to develop, and bigger goals to achieve
 
 With continuous learning, determination, and ambition, I'm committed to improving myself and building better projects along the way.
 
-**This is only the beginning — there's still much more to come!** 💪
+**This is only the beginning — there's still much more to come !** 💪
 
 ---
 
@@ -32,13 +32,16 @@ With continuous learning, determination, and ambition, I'm committed to improvin
 
 ### 👨‍🎓 Student Account
 
-Students can access the platform's learning features through their accounts.
+Students can access the platform's learning features through their accounts
 
 ### 🛡️ Admin Account
 
-Administrators have a separate account for managing courses and platform content.
+Administrators have a separate account for managing courses and platform content
 
-> Demo credentials, if needed, should be shared only in a safe testing environment and must not expose real accounts or active passwords.
+> Demo credentials, if needed, should be shared only in a safe testing environment and must not expose real accounts or active passwords
+
+## Email       : mahmoud@admin.com
+## Password    : 123456
 
 ---
 
@@ -68,13 +71,13 @@ Administrators have a separate account for managing courses and platform content
 
 **Currently in Development**
 
-Corsatak is an ongoing project. More features, improvements, and updates may be introduced as development progresses.
+Corsatak is an ongoing project. More features, improvements, and updates may be introduced as development progresses
 
 ---
 
 ## 🎯 Project Goal
 
-To build an accessible and user-friendly learning platform that makes online education more organized and convenient.
+To build an accessible and user-friendly learning platform that makes online education more organized and convenient
 
 ---
 
@@ -86,7 +89,7 @@ The following features are temporarily disabled while the project is under devel
 - 📧 **Email Notifications**
 - 🔑 **Google Sign-In**
 
-These features may be re-enabled in future updates once the required configurations and integrations are completed.
+These features may be re-enabled in future updates once the required configurations and integrations are completed
 
 ---
 
@@ -98,4 +101,4 @@ These features may be re-enabled in future updates once the required configurati
 
 ---
 
-⭐ If you like this project, consider giving the repository a star!
+⭐ If you like this project, consider giving the repository a star !
