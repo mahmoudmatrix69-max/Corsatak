@@ -12,7 +12,7 @@ Corsatak is a personal training project I built after learning web development c
 
 This project is an important step in my learning journey, but it is only the beginning. I still have more to learn, more skills to develop, and bigger goals to achieve
 
-With continuous learning, determination, and ambition, I'm committed to improving myself and building better projects along the way.
+With continuous learning, determination, and ambition, I'm committed to improving myself and building better projects along the way
 
 **This is only the beginning — there's still much more to come !** 💪
 
