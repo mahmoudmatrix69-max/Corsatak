@@ -115,7 +115,7 @@ INSERT INTO `users` (
     'mahmoud@admin.com',
     'email',
     '$2y$10$OH3FNqAIkiTf8AHtNx8DEeRJ5OuKWGgGFpQjHQrtQchUC26B8vM62',
-    '1012345678',
+    '0123456789',
     1,
     1,
     '2026-08-10 17:17:30',
