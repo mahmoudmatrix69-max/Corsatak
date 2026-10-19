@@ -1,0 +1,13 @@
+@media (max-width: 760px) {
+
+    .courses-title-area,
+    .header-content,
+    .edit-course-title,
+    .view-heading,
+    .manage-title,
+    .add-lesson-title,
+    .title,
+    .heading {
+        display: none !important;
+    }
+}
