@@ -159,7 +159,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
       } catch (PDOException $e) {
         error_log("Register DB error: " . $e->getMessage());
-        $error = "تعذّر إنشاء الحساب  حاول لاحقاً";
+        $error = "تعذّر إنشاء الحساب  حاول للاحقا;
       }
     }
   }
